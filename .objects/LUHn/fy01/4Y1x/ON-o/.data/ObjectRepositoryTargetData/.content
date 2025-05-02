@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rf4zQH99oEyldeJdAAzx2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/discover" DesignTimeRectangle="654, 260, 613, 20" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='A' aaname='Innovate' /&gt;" Guid="3869ccd1-2a44-4c79-97a8-cda9cdc7c1f4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Welcome to TechTrove' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4173214b8bf2ada3e4c9a959d9f4ee0c.png" xmlns="">0vN7tM3El0EKtBqeaZZ5kMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DXe28fnAaEGJcIXRXDkvkw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/add-technology" CVScreenId="9cf2435e-9853-4739-9946-4e30b1a944be" DesignTimeRectangle="737, 545, 448, 42" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='category' tag='INPUT' /&gt;" Guid="845c66f2-f8bf-4717-a3ce-3e50b1e5f50f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Welcome to TechTrove' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9cf2435e-9853-4739-9946-4e30b1a944be" CvTextArea="735, 524, 62, 16" CvTextArgument="Category:" CvType="Text" DesignTimeRectangle="737, 521, 448, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Category:' tag='LABEL' type='' class='block text-sm font-medium text-gray-300' check:innerText='Category:' /&gt;" Guid="9f1559a6-1cc7-4270-b432-35107ddf7dbc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4f8c47e338af3a228076ce2ef75546b0.png" xmlns="">0jbPsma0R80WpJeQWqDRaIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Dh83DyOq6UW8brdW-fnGFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/add-technology" DesignTimeRectangle="737, 604, 448, 66" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='details' tag='TEXTAREA' /&gt;" Guid="7b31928d-c1cc-44ac-a424-b8be714c7398" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Welcome to TechTrove' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c8b1e04fd1601ab2c97dec861ea1490a.png" xmlns="">09xbFGKXedU-28PxzjVVPDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

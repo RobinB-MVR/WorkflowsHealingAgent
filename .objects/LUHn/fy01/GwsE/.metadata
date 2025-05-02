@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Welcome to TechTrove(6)",
+  "Type": "Screen",
+  "Id": "GwsEJf4_7EuaPLRmvX_vLQ",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/GwsEJf4_7EuaPLRmvX_vLQ",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/fy01dUs7W0KlVa_CKvYwcA",
+  "Created": "2025-05-02T09:07:49.5687616Z",
+  "Updated": "2025-05-02T09:07:49.5687616Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

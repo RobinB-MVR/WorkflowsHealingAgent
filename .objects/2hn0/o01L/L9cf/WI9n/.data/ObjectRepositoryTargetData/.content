@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4AIeACxbdUivGRY7MXXXZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="ba2547e1-a635-4acb-9066-1b7ca4fe24b1" CvTextArea="451, 426, 1015, 31" CvTextArgument="Welcome to Tech Trove! Where you can discover the future!" CvType="Text" DesignTimeRectangle="454, 423, 1013, 40" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='Welcome to TechTrove! Where you can discover the future!' /&gt;" Guid="ccc8b2b5-ec19-451a-9bab-50601c7fc0a0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='TechTrove - Your Tech Hub' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c364639526d6d8a3d385ffa79f842f40.png" xmlns="">0zlhdUKOa6US9x6DzHMmjAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

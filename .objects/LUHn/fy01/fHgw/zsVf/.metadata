@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Change Anchors",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "zsVf-yPxWkuTQcEO_fX5Lw",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/zsVf-yPxWkuTQcEO_fX5Lw",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/fHgw9Y3_UkOC1UYF9STkbw",
+  "Created": "2025-04-30T14:33:46.0694307Z",
+  "Updated": "2025-04-30T14:33:46.0694307Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

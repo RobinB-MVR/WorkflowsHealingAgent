@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-nBYwNHNx0ywl8DuN5MgNQ" Reference="xOZcr-P3B0CNOVf7VGLxkw/bXcrkuv_iU6srEyywdrG0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/contribute" DesignTimeRectangle="904, 505, 113, 48" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' /&gt;&quot;, myButtonName)]" Guid="ea0993d8-3160-4dab-8dc1-dca8ad4bfe67" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Welcome to TechTrove' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8ad25672d22aa88cccf4a44489643a0c.png" xmlns="">0Km1WTNeHw02E3_NN6Z3blQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Click Me" Name="myButtonName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

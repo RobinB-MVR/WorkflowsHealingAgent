@@ -1,0 +1,14 @@
+﻿{
+  "Name": "You are so smart! Your …(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "tn-Ff780dkqgF5jpcVJSZQ",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/tn-Ff780dkqgF5jpcVJSZQ",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/0vtIn5xeH02xuqAZcaYqxQ",
+  "Created": "2025-04-25T09:34:23.7628901Z",
+  "Updated": "2025-04-25T09:34:23.7628901Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

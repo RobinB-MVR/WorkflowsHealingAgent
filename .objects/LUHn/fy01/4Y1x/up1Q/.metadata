@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Add New Technology(1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "up1QBkFP-km0c3Jg5Tq-uw",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/up1QBkFP-km0c3Jg5Tq-uw",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/4Y1xoP3iRU-2Scgy6NcV0A",
+  "Created": "2025-04-23T08:24:38.4615188Z",
+  "Updated": "2025-04-23T08:24:38.4615188Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

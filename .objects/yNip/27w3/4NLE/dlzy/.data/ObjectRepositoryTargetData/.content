@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xPB40usqSEaWoDv9QvbYcw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/add-technology" CVScreenId="27591133-4a7e-4778-90b6-bbbfc981c1e9" DesignTimeRectangle="853, 850, 215, 40" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Back to Technology List' tag='BUTTON' /&gt;" Guid="0e468878-fba7-4440-a6da-9f03a1576341" ScopeSelectorArgument="&lt;html app='chrome.exe' title='TechTrove - Innovate Today' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="008389f8834012c7376b8197f29e0e5a.png" xmlns="">0YXOu-gLwW0CxZsDpyudZZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

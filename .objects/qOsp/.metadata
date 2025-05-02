@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Future of Innovation",
+  "Type": "App",
+  "Id": "qOspnQ-qTUCJyYPhs5tQFQ",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/qOspnQ-qTUCJyYPhs5tQFQ",
+  "Created": "2025-04-25T12:12:57.6173668Z",
+  "Updated": "2025-04-25T12:12:57.6173668Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

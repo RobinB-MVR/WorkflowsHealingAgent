@@ -1,0 +1,132 @@
+{
+  "name": "HealingAgentTester",
+  "projectId": "62adb54e-acb4-4c69-bde0-37274087a16f",
+  "description": "HealingAgentTester",
+  "main": "LanguageToggle\\LanguageToggle.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[3.0.1]",
+    "UiPath.System.Activities": "[25.2.1]",
+    "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.161.0",
+  "projectVersion": "1.0.19",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "RandomPopups\\RandomPopUp.xaml",
+      "uniqueId": "c7248604-5c00-426d-8efd-fd76089fe85e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "SlowLoadingElement\\SlowLoadingElement.xaml",
+      "uniqueId": "e2647752-52cd-4e00-bfd2-147580b65ab5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Autocomplete\\AutocompleteTest.xaml",
+      "uniqueId": "299e8ebd-dbf2-417d-b87c-216ffaf17c97",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "ButtonTextChange\\ButtonTextChange.xaml",
+      "uniqueId": "dd81cb77-3d96-42fd-aab1-7c154ac025f9",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "NameChangeInTab\\NameChangeInTab.xaml",
+      "uniqueId": "f4c0f345-8299-4727-9e4d-66821ae66a11",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Menutree\\Menutree.xaml",
+      "uniqueId": "13c53306-faf6-4d9b-901d-f45e4317ae47",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "UnexpectedPage\\UnexpectedPage.xaml",
+      "uniqueId": "71e2c2d1-57e8-48a4-a5cf-46ffe5c8fccf",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "VariableAsSelector\\VariableAsSelector.xaml",
+      "uniqueId": "37884f2e-a70d-4ed8-a9a1-75db527032a7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DifferentDropdown\\DifferentDropdownMenuSelect.xaml",
+      "uniqueId": "455b9782-856b-41e1-b8f6-00b97a2e9ad4",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DifferentDropdown\\DifferentDropdownMenuDiv.xaml",
+      "uniqueId": "5fe0b6aa-89f3-4f05-ad56-88c8012dc2c2",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DifferentAnchorsForm\\DifferentAnchorsForm.xaml",
+      "uniqueId": "fcb764df-c6c6-42c7-93f9-06cdbcd1bbaf",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TableSelectorTest\\TableTest.xaml",
+      "uniqueId": "feab3acf-9918-45ab-8caa-230180918874",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "LanguageToggle\\LanguageToggle.xaml",
+      "uniqueId": "e3309412-3409-4270-a69f-d540fb21d097",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

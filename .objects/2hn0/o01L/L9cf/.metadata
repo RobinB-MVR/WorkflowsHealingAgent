@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Explore New Technologies",
+  "Type": "Screen",
+  "Id": "L9cf1OiNTkaqEjS5aIGTZA",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/L9cf1OiNTkaqEjS5aIGTZA",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/o01LrIMzNkeW7i_HoQ32EA",
+  "Created": "2025-04-18T07:20:38.446262Z",
+  "Updated": "2025-04-18T07:20:38.446262Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

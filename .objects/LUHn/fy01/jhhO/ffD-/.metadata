@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Expand Navigation Bar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ffD-GlZuRkSRrdpqCiYvqg",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/ffD-GlZuRkSRrdpqCiYvqg",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/jhhODShZWUqKTn5oxzKCtg",
+  "Created": "2025-04-30T12:39:03.4115292Z",
+  "Updated": "2025-04-30T12:39:03.4115292Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

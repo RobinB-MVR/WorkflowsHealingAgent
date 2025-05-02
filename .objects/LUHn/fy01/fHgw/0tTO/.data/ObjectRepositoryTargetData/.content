@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JR_jDUo8G0aqbsbNOaCZzQ" Reference="xOZcr-P3B0CNOVf7VGLxkw/0tTO20aGY0uj-_lum6sk6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/create" DesignTimeRectangle="737, 519, 448, 42" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='firstName' tag='INPUT' aaname='Voornaam:' /&gt;" Guid="6bc31a8f-63dd-49b9-83f4-691df581283f" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Welcome to TechTrove' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="737, 495, 448, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Voornaam:' tag='LABEL' /&gt;" Guid="eec9424e-2eb9-47ab-a71d-41798049bb70" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ee17849bacd81c7f290b65af5238edcf.png" xmlns="">0I7u9NaRoUUSXPcP_c9bkZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

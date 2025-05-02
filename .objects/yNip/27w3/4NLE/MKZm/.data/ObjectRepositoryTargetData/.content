@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z90krLT7OEy67PQOy0befQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="709fb833-6739-47fa-8bcd-557c4f3da44f" DesignTimeRectangle="737, 661, 448, 42" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FullSelectorArgument="&lt;webctrl id='password' tag='INPUT' /&gt;" Guid="aaae2309-10ca-4af6-a041-2f1309f2aa02" ScopeSelectorArgument="&lt;html app='chrome.exe' title='TechTrove - Innovate Today' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="709fb833-6739-47fa-8bcd-557c4f3da44f" CvTextArea="735, 640, 64, 13" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="737, 637, 448, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='block text-sm font-medium text-gray-300' check:innerText='Password' /&gt;" Guid="c0f80c71-5f97-4657-92a3-24ba173758ba" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d2fad19b736759997511cfca4055e9a0.png" xmlns="">0YkTcFNFxxECOoRpk6A3xpQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

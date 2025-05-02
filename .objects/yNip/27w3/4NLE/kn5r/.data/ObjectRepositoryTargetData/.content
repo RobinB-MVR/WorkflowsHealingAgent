@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rw3soHWm10-G-gfJ1Yi3SQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="15133468-4045-4500-9f34-448357d1747d" DesignTimeRectangle="737, 635, 309, 42" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='gebruikersnaam' tag='INPUT' /&gt;" Guid="ec65d449-019d-446e-a3c0-d4d10d3eb71c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Future of Innovation' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="15133468-4045-4500-9f34-448357d1747d" CvTextArea="736, 614, 65, 13" CvTextArgument="Username" CvType="Text" DesignTimeRectangle="737, 611, 309, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='block text-sm font-medium text-gray-300' aaname='Username' check:innerText='Username' /&gt;" Guid="630b89e0-01a1-478e-aa63-be431db17714" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2d53fb95e4b2023ba0106495fee628c7.png" xmlns="">0-ODERYk9oECboDeEvYe44A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Toggle Dropdown Version",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "VLEX8ykKoUeYXVu27_FupQ",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/VLEX8ykKoUeYXVu27_FupQ",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/jhhODShZWUqKTn5oxzKCtg",
+  "Created": "2025-04-30T12:39:30.4795603Z",
+  "Updated": "2025-04-30T12:39:30.4795603Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

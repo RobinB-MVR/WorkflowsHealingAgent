@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Technology List",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "s7Cz-NQd60uLbZyQKgezmw",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/s7Cz-NQd60uLbZyQKgezmw",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/4Y1xoP3iRU-2Scgy6NcV0A",
+  "Created": "2025-04-23T08:16:55.3898017Z",
+  "Updated": "2025-04-23T08:16:55.3898017Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

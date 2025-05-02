@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Please select a status …",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "ty2fN-39U0CZzMlpWq8lUw",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/ty2fN-39U0CZzMlpWq8lUw",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/GwsEJf4_7EuaPLRmvX_vLQ",
+  "Created": "2025-05-02T09:13:20.0649641Z",
+  "Updated": "2025-05-02T09:13:20.0649641Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

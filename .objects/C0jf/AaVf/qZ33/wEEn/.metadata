@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Change Table Selector",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wEEnxoxKG0iBglHrrMGjzw",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/wEEnxoxKG0iBglHrrMGjzw",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/qZ33wMf0FUuk7P6zIBYvgA",
+  "Created": "2025-04-30T07:40:33.0858595Z",
+  "Updated": "2025-04-30T07:40:33.0858595Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

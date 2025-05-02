@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Add New Technology'(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "dlzySWt9H0q5BlZZoRuy9g",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/dlzySWt9H0q5BlZZoRuy9g",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/4NLEICSx506hLOlEaVTAOw",
+  "Created": "2025-04-18T07:34:35.5034373Z",
+  "Updated": "2025-04-18T07:34:35.5034373Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

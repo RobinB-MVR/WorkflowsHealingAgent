@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome TechTrove - Innovate Today",
+  "Type": "Screen",
+  "Id": "efMoP_pQy0a6jYjAt-C0xw",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/efMoP_pQy0a6jYjAt-C0xw",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/32Cykm-bJ0quXgCkHLf69w",
+  "Created": "2025-04-23T12:55:27.498225Z",
+  "Updated": "2025-04-23T12:55:27.498225Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

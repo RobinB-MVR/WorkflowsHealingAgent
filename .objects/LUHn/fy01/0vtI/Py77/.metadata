@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Welcome to TechTrove! W…'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Py77_oS99U6pLcWfU1PvmA",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/Py77_oS99U6pLcWfU1PvmA",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/0vtIn5xeH02xuqAZcaYqxQ",
+  "Created": "2025-04-23T12:28:33.0125925Z",
+  "Updated": "2025-04-23T12:28:33.0125925Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

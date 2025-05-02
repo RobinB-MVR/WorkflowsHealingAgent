@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7RfogkaCd0u3wkIUBquZcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/technology-list" CVScreenId="927bb9de-64ea-46f7-9295-c2a8c6b0717f" DesignTimeRectangle="764, 919, 194, 40" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Add New Technology' tag='BUTTON' /&gt;" Guid="e4eb57d1-7cb3-405a-920f-8ede190fca52" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Explore New Technologies' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3674b08897937f5251704e8f62d9d08e.png" xmlns="">0jEbG8XJ5xEmVq2n6bRVWpA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

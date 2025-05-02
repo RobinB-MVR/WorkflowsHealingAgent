@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome TechTrove - Innovate Today",
+  "Type": "App",
+  "Id": "tJ46pnteA0K4ZenDP4byXA",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/tJ46pnteA0K4ZenDP4byXA",
+  "Created": "2025-04-23T12:55:27.4386342Z",
+  "Updated": "2025-04-23T12:55:27.4386342Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

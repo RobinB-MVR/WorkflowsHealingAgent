@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Explore New Technologies",
+  "Type": "App",
+  "Id": "2hn0xPal80u9MqtOQJfgpg",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/2hn0xPal80u9MqtOQJfgpg",
+  "Created": "2025-04-18T07:20:38.1370999Z",
+  "Updated": "2025-04-18T07:20:38.1370999Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

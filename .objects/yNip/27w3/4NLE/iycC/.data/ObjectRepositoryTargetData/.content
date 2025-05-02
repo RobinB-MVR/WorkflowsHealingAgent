@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iPEXrhCYeEG_l8cct1azdA" Reference="xOZcr-P3B0CNOVf7VGLxkw/iycCCFlX4U-kASKApXSgLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="cf1bdba1-b154-4153-8c27-8b90a2bf4555" DesignTimeRectangle="1493, 261, 162, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Add New Technology' innertext='Add New Technology' /&gt;" Guid="4c1ff199-8d77-4763-916e-14a98be30f3e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='TechTrove - Innovate Today' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="093936b081c480987a9913d4dd36dd46.png" xmlns="">0GarzUNJuQEmeWzTAO3Rngw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

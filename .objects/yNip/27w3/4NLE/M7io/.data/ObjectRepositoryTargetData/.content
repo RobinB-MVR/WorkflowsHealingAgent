@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pKtB8Z_Cz0-Myi0ClpGUnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/add-technology" CVScreenId="e5cb0059-9165-425c-a509-dc8253d3f38d" CvTextArea="776, 386, 369, 39" CvTextArgument="Add New Technology" CvType="Text" DesignTimeRectangle="779, 383, 363, 40" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='Add New Technology' /&gt;" Guid="8da74789-2c13-4f80-8a37-c0d346381ed1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='TechTrove - Innovate Today' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c2373b5d3fa84ddb31ec48a3a688452c.png" xmlns="">02Dmeprrm6UqbkuIy1SJ9eQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

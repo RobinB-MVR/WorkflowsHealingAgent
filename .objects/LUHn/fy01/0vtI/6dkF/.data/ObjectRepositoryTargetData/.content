@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FlogivfquESeG6RMmcwpEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/contribute" DesignTimeRectangle="561, 661, 800, 51" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='You are so smart! Your curiosity and determination have brought you here, and we couldn&amp;apos;t be more impressed. Keep up the amazing work!' /&gt;" Guid="a3aef6a7-d95c-4777-9b10-d5d31d8e50b5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Welcome to TechTrove' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2e7ea6aab2fb16739a92d8c0c89bf6b2.png" xmlns="">0PbPJQfdPKEy7xpFS3EcUEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

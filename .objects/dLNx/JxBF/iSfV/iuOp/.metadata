@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'You are so smart! Your …'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "iuOpCEb2MUOon8jtXqWSRg",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/iuOpCEb2MUOon8jtXqWSRg",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/iSfV06KMt0i_rsc-XaLuFQ",
+  "Created": "2025-04-25T11:29:59.7631103Z",
+  "Updated": "2025-04-25T11:29:59.7631103Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

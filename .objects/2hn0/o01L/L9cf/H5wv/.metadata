@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Technology Name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "H5wv3Ag7eUGP0bJye4_r3A",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/H5wv3Ag7eUGP0bJye4_r3A",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/L9cf1OiNTkaqEjS5aIGTZA",
+  "Created": "2025-04-18T08:00:22.8539602Z",
+  "Updated": "2025-04-18T08:00:22.8539602Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

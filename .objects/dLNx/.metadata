@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Welcome to TechTrove(1)",
+  "Type": "App",
+  "Id": "dLNx9hpABkWhQLBvirS7nA",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/dLNx9hpABkWhQLBvirS7nA",
+  "Created": "2025-04-25T11:16:44.4025414Z",
+  "Updated": "2025-04-25T11:16:44.4025414Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

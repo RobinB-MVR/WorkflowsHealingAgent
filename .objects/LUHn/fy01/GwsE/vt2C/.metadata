@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Switch to Dutch",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vt2CV62JO0e5Uk9ij-wGrQ",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/vt2CV62JO0e5Uk9ij-wGrQ",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/GwsEJf4_7EuaPLRmvX_vLQ",
+  "Created": "2025-05-02T09:09:46.8975783Z",
+  "Updated": "2025-05-02T09:09:46.8975783Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

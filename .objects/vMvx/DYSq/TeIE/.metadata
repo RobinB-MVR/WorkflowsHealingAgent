@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Welcome to TechTrove",
+  "Type": "Screen",
+  "Id": "TeIE48wIH0yY95U9aamahg",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/TeIE48wIH0yY95U9aamahg",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/DYSqBT0bFEqUx_zjNcPh1A",
+  "Created": "2025-04-18T08:45:21.3912798Z",
+  "Updated": "2025-04-18T08:45:21.3912798Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

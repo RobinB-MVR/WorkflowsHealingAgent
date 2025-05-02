@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT wachtwoord",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "8kgwpFR0UUyoHPsATqcjgQ",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/8kgwpFR0UUyoHPsATqcjgQ",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/0vtIn5xeH02xuqAZcaYqxQ",
+  "Created": "2025-04-23T12:27:36.7395105Z",
+  "Updated": "2025-04-23T12:27:36.7395105Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Back to Technology List",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "kAB8xQb1d0eMMacWq7O8PA",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/kAB8xQb1d0eMMacWq7O8PA",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/efMoP_pQy0a6jYjAt-C0xw",
+  "Created": "2025-04-23T13:21:43.4666808Z",
+  "Updated": "2025-04-23T13:21:43.4666808Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

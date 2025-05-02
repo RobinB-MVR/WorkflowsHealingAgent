@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Contribute'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JU-IXMaRxECw0NDCKu_y-w",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/JU-IXMaRxECw0NDCKu_y-w",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/1EXjMTsso0WNwqVJZXMDhA",
+  "Created": "2025-04-25T07:18:32.0784519Z",
+  "Updated": "2025-04-25T07:18:32.0784519Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BPMEWCtQKkKbjxdm5jL3lQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="0bf0a8b1-a1f3-4067-9a3a-72e9776ed656" DesignTimeRectangle="737, 735, 448, 40" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="69294c1c-e350-46af-979a-d955a0094708" ScopeSelectorArgument="&lt;html app='chrome.exe' title='TechTrove - Your Tech Hub' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e35bdc0ba095d4f2678dc759424193a3.png" xmlns="">0g_duQbtlK0efzVsXW7XAiQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

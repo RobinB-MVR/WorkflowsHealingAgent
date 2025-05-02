@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Welcome to TechTrove",
+  "Type": "App",
+  "Id": "vMvxzkLp20iTApqXPrh-5w",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/vMvxzkLp20iTApqXPrh-5w",
+  "Created": "2025-04-18T08:45:21.3331826Z",
+  "Updated": "2025-04-18T08:45:21.3331826Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

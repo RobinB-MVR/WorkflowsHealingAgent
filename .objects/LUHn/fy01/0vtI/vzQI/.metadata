@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Wow! The Healing Agent …'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vzQIJU3um0mnd0Ydxbd-ag",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/vzQIJU3um0mnd0Ydxbd-ag",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/0vtIn5xeH02xuqAZcaYqxQ",
+  "Created": "2025-04-25T09:33:22.9972127Z",
+  "Updated": "2025-04-25T09:33:22.9972127Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

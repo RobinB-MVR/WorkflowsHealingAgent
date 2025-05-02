@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT gebruikersnaam",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "WX6DjTPcv0O8FNkum-IGqA",
+  "Reference": "xOZcr-P3B0CNOVf7VGLxkw/WX6DjTPcv0O8FNkum-IGqA",
+  "ParentRef": "xOZcr-P3B0CNOVf7VGLxkw/0vtIn5xeH02xuqAZcaYqxQ",
+  "Created": "2025-04-23T12:27:19.4697116Z",
+  "Updated": "2025-04-23T12:27:19.4697116Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
