@@ -2,17 +2,17 @@
   "name": "HealingAgentTester",
   "projectId": "62adb54e-acb4-4c69-bde0-37274087a16f",
   "description": "HealingAgentTester",
-  "main": "LanguageToggle\\LanguageToggle.xaml",
+  "main": "2 Autocomplete\\Autocomplete.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.0.1]",
     "UiPath.System.Activities": "[25.2.1]",
-    "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
+    "UiPath.UIAutomation.Activities": "[25.10.4]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "25.0.161.0",
-  "projectVersion": "1.0.19",
+  "projectVersion": "1.0.30",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -47,80 +47,92 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "RandomPopups\\RandomPopUp.xaml",
-      "uniqueId": "c7248604-5c00-426d-8efd-fd76089fe85e",
+      "filePath": "1 Pop-Ups\\RandomPopUp.xaml",
+      "uniqueId": "52ff6002-2a30-47df-9c43-5bf16d4715cc",
       "input": [],
       "output": []
     },
     {
-      "filePath": "SlowLoadingElement\\SlowLoadingElement.xaml",
-      "uniqueId": "e2647752-52cd-4e00-bfd2-147580b65ab5",
+      "filePath": "5 Traag ladende elementen op pagina\\SlowLoadingElement.xaml",
+      "uniqueId": "5f9f0633-9075-44d8-86cb-8b415bd032b6",
       "input": [],
       "output": []
     },
     {
-      "filePath": "Autocomplete\\AutocompleteTest.xaml",
-      "uniqueId": "299e8ebd-dbf2-417d-b87c-216ffaf17c97",
+      "filePath": "9 Onverwachte Pagina\\UnexpectedPage.xaml",
+      "uniqueId": "1632fc83-795f-44a3-9c41-d77acf7e0c45",
       "input": [],
       "output": []
     },
     {
-      "filePath": "ButtonTextChange\\ButtonTextChange.xaml",
-      "uniqueId": "dd81cb77-3d96-42fd-aab1-7c154ac025f9",
+      "filePath": "11 Dropdown Menu (Click & Select Item)\\DifferentDropDownClickWithSelectSelector.xaml",
+      "uniqueId": "c990fd3b-1a62-498a-abcc-1d2d779f33c3",
       "input": [],
       "output": []
     },
     {
-      "filePath": "NameChangeInTab\\NameChangeInTab.xaml",
-      "uniqueId": "f4c0f345-8299-4727-9e4d-66821ae66a11",
+      "filePath": "11 Dropdown Menu (Click & Select Item)\\DifferentDropdownMenuDiv.xaml",
+      "uniqueId": "9704e39e-6a74-4afe-8276-45da5d2718f3",
       "input": [],
       "output": []
     },
     {
-      "filePath": "Menutree\\Menutree.xaml",
-      "uniqueId": "13c53306-faf6-4d9b-901d-f45e4317ae47",
+      "filePath": "11 Dropdown Menu (Click & Select Item)\\DifferentDropdownMenuSelect.xaml",
+      "uniqueId": "0b8abcde-5c17-4cc5-991c-ebf631be9919",
       "input": [],
       "output": []
     },
     {
-      "filePath": "UnexpectedPage\\UnexpectedPage.xaml",
-      "uniqueId": "71e2c2d1-57e8-48a4-a5cf-46ffe5c8fccf",
+      "filePath": "11 Dropdown Menu (Click & Select Item)\\DifferentDropDownSelectWithClickSelector.xaml",
+      "uniqueId": "232836ac-1718-4ff4-8c64-c27c8d3dff9c",
       "input": [],
       "output": []
     },
     {
-      "filePath": "VariableAsSelector\\VariableAsSelector.xaml",
-      "uniqueId": "37884f2e-a70d-4ed8-a9a1-75db527032a7",
+      "filePath": "7 Wijziging Selector in tabel\\ChangeInSelectorInTable.xaml",
+      "uniqueId": "d118d3de-26ab-4a3a-8399-5655c4ac49b1",
       "input": [],
       "output": []
     },
     {
-      "filePath": "DifferentDropdown\\DifferentDropdownMenuSelect.xaml",
-      "uniqueId": "455b9782-856b-41e1-b8f6-00b97a2e9ad4",
+      "filePath": "8 Wijziging Tabbladnaam\\ChangeInSelectorInTabname.xaml",
+      "uniqueId": "91686fa7-47b8-4e55-8f9b-3f8d1ec2c608",
       "input": [],
       "output": []
     },
     {
-      "filePath": "DifferentDropdown\\DifferentDropdownMenuDiv.xaml",
-      "uniqueId": "5fe0b6aa-89f3-4f05-ad56-88c8012dc2c2",
+      "filePath": "6 Item Selecteren in niet uitgeklapt menu\\SelectItemInNonExpandedMenu.xaml",
+      "uniqueId": "bf91d1a5-fdfa-44bb-8b45-f986f903e480",
       "input": [],
       "output": []
     },
     {
-      "filePath": "DifferentAnchorsForm\\DifferentAnchorsForm.xaml",
-      "uniqueId": "fcb764df-c6c6-42c7-93f9-06cdbcd1bbaf",
+      "filePath": "3 Wijziging Selector in een button\\ChangeInSelectorInButton.xaml",
+      "uniqueId": "a30379c1-1d2e-4ca8-bb71-135347c152d5",
       "input": [],
       "output": []
     },
     {
-      "filePath": "TableSelectorTest\\TableTest.xaml",
-      "uniqueId": "feab3acf-9918-45ab-8caa-230180918874",
+      "filePath": "2 Autocomplete\\Autocomplete.xaml",
+      "uniqueId": "95a3b581-a9ed-4365-bd4f-4ba0bfc3197b",
       "input": [],
       "output": []
     },
     {
-      "filePath": "LanguageToggle\\LanguageToggle.xaml",
-      "uniqueId": "e3309412-3409-4270-a69f-d540fb21d097",
+      "filePath": "14 Wijziging van de taal\\ChangeInSelectorAsLanguage.xaml",
+      "uniqueId": "3c71bba0-a454-4e47-8697-d44706c90570",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "12 Wijziging Anchors van Selector\\ChangeInSelectorInAnchors.xaml",
+      "uniqueId": "b5fb2c7e-ed1f-4c4b-8b24-182807e387c5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "10 Wijziging Dynamische Selector\\ChangeInSelectorAsDynamic.xaml",
+      "uniqueId": "b22d3a30-face-41f5-8e2f-8faf68e54b55",
       "input": [],
       "output": []
     }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="V_eZbcJOi0uUaFgRXyzdUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="F8HF7JyYo0asr23GI5mDOQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" CVScreenId="eb47773f-031c-4c12-98c0-954909bced4d" DesignTimeRectangle="900, 261, 121, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Technology List' tag='A' /&gt;" Guid="5527f093-0cee-4354-b6f0-c6e7c3e33c7c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Future of Innovation' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="db272eb3b595963a1c150d746fb35ab4.png" xmlns="">0woWZm9E7cUm-346-7t4HfQ</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost" DesignTimeRectangle="881, 248, 159, 44" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Technology List' tag='BUTTON' /&gt;" Guid="469d7889-6274-4793-afb8-dee1ca54225c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Welcome to TechTrove' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9289166599613b68ad27a9403c5e78d2.png" xmlns="">0VzFHGTHrP0CWeuNtq_87Pw</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>
